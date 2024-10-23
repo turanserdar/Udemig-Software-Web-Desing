@@ -40,17 +40,17 @@ cd udemig-course-app
 
 3.Open the index.html file in your preferred web browser.
 
-Usage
+# Usage
 You can customize the HTML and CSS files to create a personalized course website that meets your needs.
 
-Contributing
+# Contributing
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-Contact
+# Contact
 For any inquiries or feedback, please reach out:
 
 Email: turanserdar@outlook.com.tr
 
 
-Preview:
+# Preview:
 ![Udemig_software](https://github.com/user-attachments/assets/03bb401a-0213-47f0-90d9-32e060d811ef)
